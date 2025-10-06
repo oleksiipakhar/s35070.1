@@ -1,2 +1,4 @@
 Name: Oleksii
 University: PJATK
+hello from staging area
+Student id : s35070
